@@ -111,7 +111,7 @@ function App() {
             />
           ))}
         </div>
-        <div className="md:col-span-4 lg:col-span-4 border-l md:border-l-rose-900 md:pl-5 ">
+        <div className="md:col-span-4 lg:col-span-4 md:border-l  md:border-l-rose-900 md:pl-5 ">
           <h2 className="font-bold text-red text-2xl mb-5">
             Your Cart ({totalQuantity})
           </h2>
