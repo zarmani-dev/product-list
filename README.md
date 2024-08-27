@@ -28,5 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/zarmani-dev/product-list)
+- FrontendMentor URL: [FrontendMentor] (https://www.frontendmentor.io/solutions/product-list-with-cart-1_kD4bqsex)
+- Live Site URL: [Demo](https://product-list-neon-zeta.vercel.app/)
