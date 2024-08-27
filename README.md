@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-!["/public/assets/images/desktop-design-empty.jpg"](./screenshot.jpg)
+!["/assets/images/desktop-design-empty.jpg"](./screenshot.jpg)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/zarmani-dev/product-list)
-- FrontendMentor URL: [FrontendMentor] (https://www.frontendmentor.io/solutions/product-list-with-cart-1_kD4bqsex)
+- FrontendMentor URL: [FrontendMentor](https://www.frontendmentor.io/solutions/product-list-with-cart-1_kD4bqsex)
 - Live Site URL: [Demo](https://product-list-neon-zeta.vercel.app/)
